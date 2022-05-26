@@ -1,0 +1,317 @@
+ID,Tipo,Categoria,Download (número),Avaliação (0 - 5),Tamanho (Mb),Tempo no ar (em dias)
+App1,Pago,Entreterimento,94506,4,63,349
+App2,Gratuito,Utilitário,281962,4,120,365
+App3,Pago,Entreterimento,119282,3,70,335
+App4,Gratuito,Entreterimento,136822,3,74,331
+App5,Gratuito,Rede Social,286821,1,123,282
+App6,Gratuito,Entreterimento,285208,3,122,341
+App7,Gratuito,Entreterimento,224099,3,97,344
+App8,Gratuito,Rede Social,209865,3,93,316
+App9,Gratuito,Utilitário,167339,5,82,394
+App10,Gratuito,Rede Social,139579,3,75,315
+App11,Gratuito,Utilitário,139393,5,75,388
+App12,Gratuito,Entreterimento,196962,3,89,347
+App13,Pago,Entreterimento,62407,4,52,360
+App14,Pago,Científico,46710,4,45,383
+App15,Gratuito,Utilitário,149071,5,77,386
+App16,Pago,Entreterimento,104138,4,65,355
+App17,Gratuito,Entreterimento,245967,3,104,338
+App18,Pago,Rede Social,95446,1,63,274
+App19,Gratuito,Entreterimento,281325,3,119,336
+App20,Pago,Científico,55009,5,49,407
+App21,Pago,Utilitário,13724,4,13,376
+App22,Pago,Entreterimento,39855,4,41,359
+App23,Gratuito,Utilitário,299738,5,135,390
+App24,Pago,Utilitário,21922,4,27,377
+App25,Gratuito,Entreterimento,175431,3,84,345
+App26,Pago,Rede Social,81855,2,59,300
+App27,Pago,Entreterimento,53704,3,48,331
+App28,Gratuito,Entreterimento,130861,3,73,339
+App29,Gratuito,Entreterimento,280079,4,118,360
+App30,Pago,Entreterimento,113424,3,68,345
+App31,Pago,Entreterimento,112764,4,68,354
+App32,Gratuito,Rede Social,218373,3,95,318
+App33,Gratuito,Rede Social,159604,2,80,310
+App34,Pago,Rede Social,70850,2,55,291
+App35,Gratuito,Rede Social,210374,2,93,291
+App36,Gratuito,Utilitário,140712,5,75,391
+App37,Pago,Científico,101140,5,64,432
+App38,Pago,Utilitário,16703,4,20,371
+App39,Gratuito,Entreterimento,232235,4,99,353
+App40,Gratuito,Científico,272820,5,115,410
+App41,Gratuito,Utilitário,177506,5,84,390
+App42,Gratuito,Entreterimento,221142,3,96,333
+App43,Gratuito,Utilitário,259657,4,109,374
+App44,Pago,Entreterimento,120720,3,70,336
+App45,Pago,Utilitário,77775,4,57,373
+App46,Pago,Entreterimento,108967,3,67,315
+App47,Gratuito,Rede Social,208795,2,93,310
+App48,Pago,Utilitário,112598,4,68,372
+App49,Gratuito,Utilitário,199286,5,90,387
+App50,Pago,Utilitário,12954,4,10,367
+App51,Gratuito,Científico,170328,5,82,464
+App52,Pago,Entreterimento,127906,3,72,325
+App53,Pago,Científico,116352,5,69,394
+App54,Pago,Entreterimento,29348,3,35,337
+App55,Pago,Entreterimento,79293,4,58,352
+App56,Gratuito,Rede Social,165104,1,81,265
+App57,Gratuito,Utilitário,256630,5,108,397
+App58,Gratuito,Entreterimento,297048,4,131,349
+App59,Pago,Entreterimento,118146,2,69,308
+App60,Pago,Entreterimento,93723,3,63,318
+App61,Pago,Utilitário,48744,4,46,368
+App62,Gratuito,Rede Social,135890,2,74,294
+App63,Gratuito,Utilitário,236339,4,101,367
+App64,Pago,Utilitário,25143,4,31,373
+App65,Gratuito,Entreterimento,228985,4,98,352
+App66,Gratuito,Utilitário,285399,4,122,372
+App67,Pago,Utilitário,118489,4,69,367
+App68,Gratuito,Entreterimento,254286,3,107,326
+App69,Pago,Entreterimento,105144,2,66,312
+App70,Gratuito,Entreterimento,202291,4,91,354
+App71,Pago,Entreterimento,56642,4,50,358
+App72,Gratuito,Utilitário,220651,4,96,369
+App73,Gratuito,Utilitário,305704,4,146,381
+App74,Gratuito,Científico,268934,5,113,413
+App75,Gratuito,Entreterimento,169437,4,82,349
+App76,Pago,Entreterimento,14886,4,16,362
+App77,Gratuito,Entreterimento,192367,3,88,338
+App78,Pago,Entreterimento,34808,4,38,361
+App79,Gratuito,Rede Social,284487,2,121,303
+App80,Gratuito,Entreterimento,159597,4,80,348
+App81,Gratuito,Utilitário,170083,5,82,396
+App82,Pago,Científico,101190,5,64,446
+App83,Pago,Científico,56231,5,49,391
+App84,Pago,Entreterimento,26646,3,32,334
+App85,Gratuito,Entreterimento,288197,3,124,346
+App86,Gratuito,Entreterimento,256626,4,108,356
+App87,Gratuito,Entreterimento,277222,3,117,346
+App88,Gratuito,Entreterimento,228999,3,98,347
+App89,Gratuito,Rede Social,198076,3,90,317
+App90,Gratuito,Científico,183674,5,86,410
+App91,Gratuito,Utilitário,261464,4,110,377
+App92,Pago,Utilitário,56445,4,50,366
+App93,Gratuito,Rede Social,197830,3,90,317
+App94,Gratuito,Entreterimento,219084,3,96,344
+App95,Pago,Entreterimento,40664,4,42,359
+App96,Pago,Rede Social,96988,1,64,263
+App97,Gratuito,Utilitário,177545,4,84,368
+App98,Gratuito,Científico,137599,5,74,416
+App99,Gratuito,Utilitário,145623,4,76,385
+App100,Gratuito,Utilitário,249861,5,105,393
+App101,Gratuito,Entreterimento,246434,3,104,329
+App102,Gratuito,Utilitário,148819,4,77,375
+App103,Gratuito,Utilitário,201370,5,91,401
+App104,Gratuito,Utilitário,228964,4,98,369
+App105,Pago,Rede Social,79022,1,58,258
+App106,Gratuito,Científico,305825,5,146,409
+App107,Pago,Entreterimento,77350,3,57,332
+App108,Pago,Entreterimento,88705,4,61,362
+App109,Pago,Entreterimento,89264,3,61,343
+App110,Pago,Entreterimento,35527,3,39,335
+App111,Gratuito,Utilitário,308516,5,157,402
+App112,Gratuito,Científico,217871,5,95,467
+App113,Pago,Entreterimento,93711,3,62,338
+App114,Gratuito,Utilitário,230229,5,99,390
+App115,Gratuito,Entreterimento,159176,3,80,347
+App116,Gratuito,Utilitário,243564,4,103,369
+App117,Pago,Entreterimento,27469,4,33,351
+App118,Gratuito,Utilitário,228090,4,98,374
+App119,Pago,Rede Social,67956,2,54,294
+App120,Gratuito,Utilitário,288652,5,124,392
+App121,Gratuito,Rede Social,137477,1,74,274
+App122,Pago,Entreterimento,115332,3,69,316
+App123,Gratuito,Entreterimento,289194,4,124,359
+App124,Pago,Utilitário,80947,4,58,379
+App125,Pago,Utilitário,22468,4,28,367
+App126,Pago,Científico,82235,5,59,409
+App127,Gratuito,Entreterimento,175093,3,84,332
+App128,Pago,Entreterimento,117659,4,69,358
+App129,Gratuito,Entreterimento,269087,4,113,357
+App130,Pago,Entreterimento,108817,2,67,315
+App131,Gratuito,Entreterimento,258464,3,108,323
+App132,Pago,Científico,46096,5,45,418
+App133,Gratuito,Rede Social,146876,3,77,316
+App134,Pago,Entreterimento,46846,3,45,325
+App135,Pago,Entreterimento,76511,2,57,313
+App136,Gratuito,Utilitário,214225,5,94,391
+App137,Pago,Entreterimento,18665,4,23,359
+App138,Pago,Entreterimento,97904,3,64,333
+App139,Gratuito,Rede Social,240737,2,102,302
+App140,Pago,Entreterimento,94915,4,63,348
+App141,Gratuito,Utilitário,235028,4,100,364
+App142,Pago,Científico,31608,5,36,393
+App143,Pago,Científico,46147,4,45,383
+App144,Pago,Entreterimento,67675,2,54,303
+App145,Gratuito,Utilitário,210216,5,93,387
+App146,Gratuito,Utilitário,201040,4,90,369
+App147,Pago,Científico,30452,4,35,380
+App148,Pago,Entreterimento,83617,4,59,350
+App149,Gratuito,Entreterimento,209038,4,93,357
+App150,Gratuito,Utilitário,286788,5,123,400
+App151,Gratuito,Científico,286070,5,122,423
+App152,Gratuito,Entreterimento,252230,4,106,360
+App153,Gratuito,Rede Social,286048,1,122,275
+App154,Gratuito,Rede Social,172797,3,83,322
+App155,Gratuito,Rede Social,239272,3,102,320
+App156,Gratuito,Rede Social,256750,2,108,306
+App157,Pago,Entreterimento,14909,3,16,322
+App158,Pago,Entreterimento,37649,2,40,308
+App159,Gratuito,Entreterimento,195746,4,89,350
+App160,Pago,Entreterimento,105417,4,66,359
+App161,Gratuito,Rede Social,176562,2,84,298
+App162,Gratuito,Entreterimento,234903,3,100,345
+App163,Gratuito,Rede Social,243106,3,103,319
+App164,Gratuito,Entreterimento,248606,3,105,343
+App165,Gratuito,Utilitário,186395,4,87,367
+App166,Pago,Entreterimento,24541,3,30,340
+App167,Gratuito,Utilitário,181823,4,85,381
+App168,Gratuito,Entreterimento,215621,3,95,336
+App169,Gratuito,Utilitário,294236,4,129,366
+App170,Gratuito,Entreterimento,307647,3,153,327
+App171,Gratuito,Utilitário,211772,5,93,388
+App172,Gratuito,Utilitário,290133,4,125,371
+App173,Gratuito,Utilitário,174230,5,84,395
+App174,Gratuito,Entreterimento,180730,4,85,360
+App175,Pago,Entreterimento,18514,3,23,324
+App176,Pago,Rede Social,27824,1,33,279
+App177,Gratuito,Rede Social,221584,3,96,319
+App178,Pago,Entreterimento,94371,3,63,318
+App179,Gratuito,Científico,305764,5,146,409
+App180,Gratuito,Utilitário,134226,4,73,368
+App181,Gratuito,Utilitário,295188,4,129,376
+App182,Pago,Entreterimento,20471,3,26,344
+App183,Pago,Rede Social,106848,2,66,290
+App184,Gratuito,Entreterimento,300622,3,136,333
+App185,Pago,Utilitário,13904,4,13,365
+App186,Gratuito,Entreterimento,209443,3,93,335
+App187,Gratuito,Entreterimento,276892,4,117,359
+App188,Pago,Entreterimento,97549,3,64,342
+App189,Gratuito,Rede Social,145112,2,76,294
+App190,Gratuito,Utilitário,286619,4,123,366
+App191,Pago,Científico,60742,5,51,406
+App192,Gratuito,Entreterimento,160572,3,80,347
+App193,Gratuito,Rede Social,293256,2,128,314
+App194,Gratuito,Utilitário,219750,4,96,383
+App195,Gratuito,Entreterimento,309906,3,183,344
+App196,Gratuito,Utilitário,205773,5,92,402
+App197,Pago,Entreterimento,57050,3,50,344
+App198,Pago,Científico,65395,5,53,413
+App199,Pago,Entreterimento,31205,4,36,355
+App200,Gratuito,Científico,208488,5,92,422
+App201,Gratuito,Entreterimento,259001,3,109,332
+App202,Gratuito,Utilitário,305406,5,145,405
+App203,Gratuito,Utilitário,278954,4,118,366
+App204,Pago,Entreterimento,77948,4,58,351
+App205,Gratuito,Rede Social,274748,2,116,288
+App206,Pago,Entreterimento,17847,3,22,342
+App207,Gratuito,Rede Social,260163,3,109,319
+App208,Gratuito,Entreterimento,243236,3,103,323
+App209,Gratuito,Entreterimento,269116,3,113,346
+App210,Gratuito,Científico,247172,5,104,433
+App211,Gratuito,Utilitário,251173,5,106,400
+App212,Gratuito,Entreterimento,273552,4,115,348
+App213,Gratuito,Utilitário,145015,4,76,369
+App214,Gratuito,Utilitário,160702,4,80,374
+App215,Pago,Entreterimento,52414,2,48,314
+App216,Pago,Científico,54888,5,49,390
+App217,Pago,Entreterimento,128532,4,72,360
+App218,Gratuito,Entreterimento,172435,3,83,329
+App219,Pago,Entreterimento,92670,4,62,363
+App220,Pago,Entreterimento,84764,3,60,316
+App221,Gratuito,Rede Social,136127,1,74,278
+App222,Gratuito,Utilitário,224472,4,97,370
+App223,Gratuito,Entreterimento,287244,3,123,346
+App224,Gratuito,Entreterimento,141113,4,75,348
+App225,Gratuito,Utilitário,159161,5,80,387
+App226,Gratuito,Rede Social,150593,3,78,322
+App227,Gratuito,Utilitário,223605,5,97,386
+App228,Pago,Rede Social,123041,2,71,289
+App229,Gratuito,Utilitário,271001,5,114,397
+App230,Pago,Entreterimento,54549,3,49,340
+App231,Gratuito,Rede Social,199119,2,90,306
+App232,Gratuito,Entreterimento,277927,3,117,327
+App233,Gratuito,Utilitário,146069,4,76,377
+App234,Gratuito,Utilitário,256492,4,108,360
+App235,Gratuito,Entreterimento,305911,3,146,347
+App236,Gratuito,Utilitário,233804,4,100,378
+App237,Pago,Entreterimento,123516,4,71,358
+App238,Gratuito,Entreterimento,209042,3,93,330
+App239,Gratuito,Rede Social,214249,2,94,305
+App240,Gratuito,Utilitário,231386,4,99,372
+App241,Gratuito,Utilitário,181411,4,85,378
+App242,Gratuito,Entreterimento,228943,3,98,326
+App243,Gratuito,Entreterimento,135858,3,74,336
+App244,Gratuito,Entreterimento,257797,3,108,327
+App245,Gratuito,Utilitário,202927,4,91,362
+App246,Pago,Entreterimento,46749,3,45,327
+App247,Gratuito,Entreterimento,277134,3,117,346
+App248,Pago,Entreterimento,86468,2,60,310
+App249,Gratuito,Rede Social,282583,3,120,317
+App250,Gratuito,Utilitário,300692,4,136,367
+App251,Gratuito,Rede Social,172742,1,83,268
+App252,Gratuito,Entreterimento,297303,4,132,356
+App253,Pago,Rede Social,51744,2,48,289
+App254,Gratuito,Científico,195326,5,89,413
+App255,Gratuito,Utilitário,264035,4,111,366
+App256,Gratuito,Entreterimento,241657,4,102,350
+App257,Gratuito,Utilitário,234874,4,100,361
+App258,Pago,Entreterimento,111898,3,68,347
+App259,Gratuito,Utilitário,178854,5,85,391
+App260,Gratuito,Entreterimento,223939,4,97,355
+App261,Pago,Científico,114270,5,68,389
+App262,Gratuito,Utilitário,160746,5,80,405
+App263,Gratuito,Utilitário,171746,5,83,390
+App264,Gratuito,Utilitário,260161,4,109,384
+App265,Gratuito,Científico,152392,5,78,408
+App266,Pago,Científico,112890,5,68,411
+App267,Pago,Entreterimento,46599,3,45,315
+App268,Gratuito,Utilitário,228705,5,98,388
+App269,Gratuito,Utilitário,144062,4,76,371
+App270,Gratuito,Utilitário,283163,4,120,373
+App271,Gratuito,Utilitário,207204,4,92,362
+App272,Pago,Científico,115567,5,69,391
+App273,Pago,Entreterimento,76604,4,57,348
+App274,Gratuito,Rede Social,219550,2,96,301
+App275,Gratuito,Entreterimento,242299,3,103,344
+App276,Pago,Utilitário,36744,4,40,365
+App277,Gratuito,Entreterimento,136992,3,74,338
+App278,Pago,Entreterimento,68808,4,54,348
+App279,Pago,Entreterimento,95642,3,63,334
+App280,Gratuito,Entreterimento,193926,3,89,324
+App281,Pago,Utilitário,42675,4,43,369
+App282,Pago,Entreterimento,121352,3,70,332
+App283,Gratuito,Entreterimento,197686,3,90,332
+App284,Pago,Entreterimento,65379,3,53,331
+App285,Pago,Entreterimento,95822,3,63,334
+App286,Pago,Utilitário,74343,4,56,367
+App287,Gratuito,Rede Social,179959,3,85,322
+App288,Gratuito,Rede Social,186051,2,87,283
+App289,Gratuito,Utilitário,303583,5,141,401
+App290,Pago,Entreterimento,59941,3,51,329
+App291,Gratuito,Rede Social,258879,3,109,321
+App292,Pago,Científico,26949,4,32,382
+App293,Gratuito,Utilitário,165787,5,81,401
+App294,Gratuito,Utilitário,303482,4,141,373
+App295,Gratuito,Científico,210836,5,93,411
+App296,Pago,Científico,103400,5,65,399
+App297,Gratuito,Rede Social,216773,3,95,316
+App298,Gratuito,Entreterimento,273552,3,115,333
+App299,Gratuito,Utilitário,251004,5,106,404
+App300,Pago,Entreterimento,23154,4,29,356
+App301,Pago,Científico,38217,5,40,412
+App302,Gratuito,Entreterimento,300635,4,136,355
+App303,Gratuito,Científico,241865,5,102,413
+App304,Gratuito,Entreterimento,232165,3,99,341
+App305,Gratuito,Entreterimento,175520,3,84,330
+App306,Gratuito,Entreterimento,192782,3,88,347
+App307,Pago,Entreterimento,81268,4,59,364
+App308,Gratuito,Utilitário,306424,5,148,389
+App309,Gratuito,Utilitário,178916,4,85,368
+App310,Gratuito,Rede Social,193074,2,89,292
+App311,Gratuito,Utilitário,255767,4,107,367
+App312,Gratuito,Entreterimento,277589,3,117,343
+App313,Pago,Entreterimento,109528,3,67,325
+App314,Pago,Utilitário,81461,4,59,369
+App315,Gratuito,Utilitário,194545,4,89,376
+App316,Gratuito,Rede Social,261901,2,110,312
